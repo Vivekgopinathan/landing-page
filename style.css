@@ -1,0 +1,180 @@
+body
+{
+    background-color: #1f2937;
+   
+}
+
+.main
+{
+    display: flex;
+    flex-direction: row;
+    color:white;
+    
+}
+
+.awesome
+{
+    margin: 0;
+    padding: 0;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.awesome 
+.head
+{
+    font-size: 48px;
+    font-weight:bolder;
+}
+.awesome
+.sub
+{
+    display: flex;
+    margin: 50px;
+    font-size: 28px;
+    font-weight:bold;
+}
+.header
+{
+    display:flex;
+    flex-direction:row;
+    color: white;
+    padding: 10px;
+    width: 10px;
+    border-left: 500px;
+
+}
+
+.right
+{
+  gap: 2rem;
+    flex-wrap: wrap;
+  display: flex;
+   color:white;
+    list-style-type: none;
+    padding:0;
+    margin-left: 800px;
+    width: 400px;
+    
+}
+
+
+   
+button
+{
+    background-color:#3882F6;
+    margin: 50px;
+    color: whites;
+    width: 110px;
+    height: 25px;
+}
+.foot
+{
+    display: flex;
+   
+    padding:0;
+    margin: 0;
+    width: 800px;
+    height:200px ;
+    justify-content: center;
+    -ms-flex-align: center;
+
+    background-color:#3882F6;
+}
+.random
+{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    padding: 40px;
+}
+.random
+.quote
+{
+    color:#1F2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    background-color: #E5E7EB;
+}
+.random
+.heading
+{
+    font-size: 36px;
+    font-weight: bolder;
+    color:#1F2937;
+}
+.random
+.sub-quote
+{
+    color: black;
+    font-weight: bold;
+}
+
+.sub-text
+{
+    display: flex;
+    flex-shrink: 1;
+    margin: 0;
+    padding: 0;
+   
+    list-style:none;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.sub-text li
+{
+    width: 150px;
+}
+.image
+{
+    display: flex;
+    flex-shrink: 1;
+    margin: 0;
+    padding: 0;
+
+    list-style:none;
+    justify-content: space-evenly;
+    flex-direction: row;
+
+    
+}
+.image li
+{
+    width: 100px;
+    height: 100px;  
+    border-radius: 10% 10% 10% 10%;
+    border: 3px solid  rgb(2, 193, 252);
+}
+.image img
+{
+    width: 100%;
+    height: 100%;
+}
+.main img
+{
+    width:100%;
+    height: 100%;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+
+}
+.footer p{
+
+    color: #F9FAF8;
+    font-size:10px;
+}
+.main-image
+ img
+{
+    width:100%;
+    height: 100%;
+}
+.sub-quote
+{
+display: flex;
+background-color: ;
+}
